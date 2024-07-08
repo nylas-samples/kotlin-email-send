@@ -16,6 +16,7 @@ You'll need the following values:
 ```text
 V3_TOKEN_API = <API_KEY>
 GRANT_ID = <GRANT_ID>
+NYLAS_API_URI = <NYLAS_API_URI>
 ```
 
 Add the above values to a new `.env` file:
